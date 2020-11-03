@@ -1,6 +1,6 @@
 # WazirX-Exchange
 
-WazirX is a legitimate cryptographic money trade in India that permits clients to put resources into a few digital forms of money by exchanging fiat cash. The organization is situated in Mumbai and drove by an accomplished group that includes <a href=" https://coinpedia.org/exchange/wazirx-bitcoin-exchange-india/">Nischal Shetty</A>, Sameer Mhatre, and Siddharth Menon. 
+WazirX is a legitimate cryptographic money trade in India that permits clients to put resources into a few digital forms of money by exchanging fiat cash. The organization is situated in Mumbai and drove by an accomplished group that includes <a href="https://coinpedia.org/exchange/wazirx-bitcoin-exchange-india/">Nischal Shetty</A>, Sameer Mhatre, and Siddharth Menon. 
 
 The organization offers a framework that permits clients not exclusively to exchange computerized resources yet in addition to purchase and sell digital forms of money, for example, bitcoin, bitcoin money, litecoin, run, and some more. It likewise offers normal security reviews to guarantee an exceptionally made sure about stage. 
 
@@ -20,7 +20,7 @@ WazirX Features :
 
 WazirX Fees and Limits :
 
-<a href=" https://coinpedia.org/exchange/wazirx-bitcoin-exchange-india/">WazirX crypto exchange</A> utilizes a producer and taker model for deciding purchase and sell exchanging expenses. Contingent upon the kind of request put by the client, WazirX will decide the exchanging charge to be applied as follows: 
+<a href="https://coinpedia.org/exchange/wazirx-bitcoin-exchange-india/">WazirX crypto exchange</A> utilizes a producer and taker model for deciding purchase and sell exchanging expenses. Contingent upon the kind of request put by the client, WazirX will decide the exchanging charge to be applied as follows: 
 
 •	0.02% charge applies for limit and contingent requests (Taker) 
 •	0.02% charge applies for market arranges that fill (Maker) 
